@@ -1,2 +1,4 @@
 # virtualbox
-Packer templates written in HCL for producing Oracle VM VIrtualBox images
+Packer templates for producing Oracle VM VIrtualBox images written in HCL
+
+
